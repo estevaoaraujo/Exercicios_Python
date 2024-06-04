@@ -14,5 +14,5 @@ while numero1 != numero2:
         numero1 < numero2    
         numero1 += 1
         resultado = resultado + numero1
-        print(numero1)                             #5 e 10 = 40
+        print(numero1)                             
 print("Soma: ",resultado)

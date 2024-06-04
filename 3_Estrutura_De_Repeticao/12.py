@@ -18,6 +18,6 @@ def saida(tabuada_de):
             print( i ," X ", tabuada_de," = ",resutaldo)
             i+= 1
         else:
-            print("Valor incorreto: ")    
+            print("Valor incorreto, digite valor de 0 a 10 ")    
 
 entrada()
